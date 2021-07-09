@@ -1,3 +1,15 @@
-# node-ewfesd
+# umi project
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/node-ewfesd)
+## Getting Started
+
+Install dependencies,
+
+```bash
+$ yarn
+```
+
+Start the dev server,
+
+```bash
+$ yarn start
+```
